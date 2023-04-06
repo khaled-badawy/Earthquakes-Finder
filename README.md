@@ -21,6 +21,7 @@ We used two APIs:
 1- Geocoding OSM API:
 
 It allowed us to search for the locations all over the world using OSM’s data
+
 2- Earthquake catalog API:
 
 It allowed us to search for the earthquakes all over the world using USGS’s data
